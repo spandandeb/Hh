@@ -24,7 +24,7 @@ const Footer = () => {
               </p>
               <p className="flex items-center gap-2 text-sm">
                 <MapPin className="h-4 w-4" />
-                <span>123 Food Street, Kitchen City, FC 12345</span>
+                <span>123 Food Street, Lower Parel, Mumbai</span>
               </p>
             </div>
           </div>
